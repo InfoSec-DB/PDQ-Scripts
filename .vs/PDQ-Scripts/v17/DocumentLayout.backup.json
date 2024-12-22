@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,16 +38,7 @@
               "RelativeToolTip": "Security Audit\\README.md",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwBkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-22T01:27:43.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2024-12-22T01:27:43.772Z"
             },
             {
               "$type": "Document",
@@ -53,7 +48,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "D:\\Github\\PDQ-Scripts\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-12-22T01:27:31.825Z",
               "EditorCaption": ""
@@ -68,8 +63,11 @@
               "RelativeToolTip": "Security Audit\\SecurityAudit.ps1",
               "ViewState": "AgIAAAIFAAAAAAAAAAAwwEAFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-21T19:54:51.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T19:54:51.814Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

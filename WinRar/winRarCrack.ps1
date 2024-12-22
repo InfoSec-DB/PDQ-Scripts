@@ -1,3 +1,12 @@
+# ===========================================
+# CBKB - DeadlyData
+# www.colorblind.keybangers
+# ===========================================
+# Script Title   : Install and Crack WinRAR
+# Description    : Apllies thes reg crack key to winrar to get rid of the anoying popup.
+# ===========================================
+
+
 # Define the source path for the WinRAR registration key
 $SourceKeyPath = "\\xCore-Admin01\PDQ Repos\Winrar\rarreg.key"
 
