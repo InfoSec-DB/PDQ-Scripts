@@ -1,5 +1,11 @@
-﻿
-# 🗜️ PDQ Deploy Script: Install and Crack WinRAR
+﻿# ===========================================
+# CBKB - DeadlyData
+# www.colorblind.keybangers
+# ===========================================
+# Script Title   : Install and Crack WinRAR
+# Description    : Apllies thes reg crack key to winrar to get rid of the anoying popup.
+# ===========================================
+
 
 ## Overview
 This script automates the process of installing WinRAR and applying a registration key (crack) to unlock the full version. The installation file can either be downloaded directly from the official vendor or provided as part of the deployment.
