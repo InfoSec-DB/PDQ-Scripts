@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\PDQ-Scripts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\PDQ-Scripts\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\PDQ-Scripts\\WinRar\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinRar\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\PDQ-Scripts\\Security Audit\\SecurityAudit.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Security Audit\\SecurityAudit.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\PDQ-Scripts\\Security Audit\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Security Audit\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\PDQ-Scripts\\WinRar\\winRarCrack.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinRar\\winRarCrack.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\PDQ-Scripts\\Security Audit\\README.md",
-              "RelativeDocumentMoniker": "Security Audit\\README.md",
-              "ToolTip": "D:\\Github\\PDQ-Scripts\\Security Audit\\README.md",
-              "RelativeToolTip": "Security Audit\\README.md",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-22T01:27:43.772Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\PDQ-Scripts\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\Github\\PDQ-Scripts\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Github\\PDQ-Scripts\\WinRar\\README.md",
+              "RelativeDocumentMoniker": "WinRar\\README.md",
+              "ToolTip": "D:\\Github\\PDQ-Scripts\\WinRar\\README.md",
+              "RelativeToolTip": "WinRar\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-22T01:27:31.825Z",
+              "WhenOpened": "2024-12-22T04:00:39.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SecurityAudit.ps1",
-              "DocumentMoniker": "D:\\Github\\PDQ-Scripts\\Security Audit\\SecurityAudit.ps1",
-              "RelativeDocumentMoniker": "Security Audit\\SecurityAudit.ps1",
-              "ToolTip": "D:\\Github\\PDQ-Scripts\\Security Audit\\SecurityAudit.ps1",
-              "RelativeToolTip": "Security Audit\\SecurityAudit.ps1",
-              "ViewState": "AgIAAAIFAAAAAAAAAAAwwEAFAAAAAAAAAAAAAA==",
+              "Title": "winRarCrack.ps1",
+              "DocumentMoniker": "D:\\Github\\PDQ-Scripts\\WinRar\\winRarCrack.ps1",
+              "RelativeDocumentMoniker": "WinRar\\winRarCrack.ps1",
+              "ToolTip": "D:\\Github\\PDQ-Scripts\\WinRar\\winRarCrack.ps1",
+              "RelativeToolTip": "WinRar\\winRarCrack.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-21T19:54:51.814Z"
+              "WhenOpened": "2024-12-22T03:56:20.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
